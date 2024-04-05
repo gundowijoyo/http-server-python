@@ -1,1 +1,5 @@
-<h2>test http server now</h2>
+<h2 align="center">test http server now</h2>
+<strong>Setelah berhasil meng clone repository nya jalankan perintah di bawah ini</strong>
+
+### `python python.py`
+
